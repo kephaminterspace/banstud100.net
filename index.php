@@ -606,19 +606,7 @@ if(isset($_POST['name'])) {
                                                                         5 Chai
                                                                     </option>
                                                                     <option value="6">
-                                                                        6 Chai
-                                                                    </option>
-                                                                    <option value="7">
-                                                                        7 Chai
-                                                                    </option>
-                                                                    <option value="8">
-                                                                        8 Chai
-                                                                    </option>
-                                                                    <option value="9">
-                                                                        9 Chai
-                                                                    </option>
-                                                                    <option value="10">
-                                                                        10 Chai
+                                                                        Mua sỉ
                                                                     </option>
                                                                 </select>
                                                             </div>
