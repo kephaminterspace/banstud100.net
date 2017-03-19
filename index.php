@@ -64,7 +64,7 @@ if(isset($_POST['name'])) {
     <style type="text/css">.gm-style .gm-style-mtc label,.gm-style .gm-style-mtc div{font-weight:400}</style><link type="text/css" rel="stylesheet" href="./index_files/css"><style type="text/css">.gm-style .gm-style-cc span,.gm-style .gm-style-cc a,.gm-style .gm-style-mtc div{font-size:10px}</style><style type="text/css">@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style type="text/css">.gm-style{font-family:Roboto,Arial,sans-serif;font-size:11px;font-weight:400;text-decoration:none}.gm-style img{max-width:none}</style>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Stud 100 kéo dài thời gian quan hệ, hàng chính hãng. Nhà cung cấp stud 100 tại Việt Nam</title>
+    <title>Stud 100 kéo dài thời gian quan hệ, chống xuất tinh sớm, chính hãng</title>
 
     <script type="text/javascript" id="www-widgetapi-script" src="./index_files/www-widgetapi.js" async=""></script>
     <meta name="title" content="Stud 100 kéo dài thời gian quan hệ, chính hãng tại Việt Nam">
