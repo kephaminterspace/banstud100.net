@@ -663,11 +663,7 @@ if(isset($_POST['name'])) {
 
             </main><!-- #main -->
         </div><!-- #primary -->
-
-
     </div><!-- #content -->
-
-
 
     <footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info container">
@@ -681,9 +677,5 @@ if(isset($_POST['name'])) {
 <script type="text/javascript" src="./index_files/skip-link-focus-fix.js"></script>
 <script type="text/javascript" src="./index_files/comment-reply.min.js"></script>
 <script type="text/javascript" src="./index_files/wp-embed.min.js"></script>
-<!--wp_footer-->
-<script>
-    <img src="https://cv.accesstrade.vn/cv.php?identifier=BANTSTUD1001&mcn=bcbe3365e6ac95ea2c0343a2395834dd&result_id=3&goods=STUD100.2.350000.THUOC" width="1" height="1" />
-</script>
 
 </body></html>
