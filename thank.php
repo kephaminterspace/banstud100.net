@@ -16,9 +16,40 @@
         <link rel="stylesheet" href="thank/css/font-awesome.css">
         <link rel="stylesheet" href="thank/css/main.css">
         <link rel="stylesheet" href="thank/css/responsive.css">
+        <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-99099923-1', 'auto');
+            ga('send', 'pageview');
+
+        </script>
     </head>
     <body>
-        <section class="body-sign">
+        <!-- Google Code for H&agrave;nh &#273;&#7897;ng chuy&#7875;n &#273;&#7893;i Conversion Page -->
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 869085517;
+            var google_conversion_language = "en";
+            var google_conversion_format = "3";
+            var google_conversion_color = "ffffff";
+            var google_conversion_label = "s2e3CIH55nAQzeK0ngM";
+            var google_conversion_value = 1.00;
+            var google_conversion_currency = "VND";
+            var google_remarketing_only = false;
+            /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+        </script>
+        <noscript>
+            <div style="display:inline;">
+                <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/869085517/?value=1.00&amp;currency_code=VND&amp;label=s2e3CIH55nAQzeK0ngM&amp;guid=ON&amp;script=0"/>
+            </div>
+        </noscript>
+
+    <section class="body-sign">
             <div class="center-sign">
                 <div class="tkbn">
                     <a href="http://banstud100.net/" class="">
